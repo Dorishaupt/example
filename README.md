@@ -71,5 +71,7 @@ or manipulate Go programs.
 
 ## [template](template/)
 
+I'm learning GO
+
 A trivial web server that demonstrates the use of the
 [`template` package](https://golang.org/pkg/text/template/)'s `block` feature.
